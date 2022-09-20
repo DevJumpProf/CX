@@ -1,0 +1,12 @@
+https://graph.facebook.com/{API_VERSION}/{PIXEL_ID}/events?access_token={TOKEN}
+EAAJB6yxpCN0BAJh6NsG9KP4l0NLxGLBQKY09iYjOAeuit9PDWrYoDu53WwsaukqIz1FzVX4cZAh7merzZAWeZCTPZBOn7OROzlvJPY8UaLs46AFqaW4pTXtsITWOcyQZA0pmpfZCZA30xxrkmK6J97v9ZB8lCtPZAEJBEcUcRxpiQDhBUTLtlsWwAYVEpGOpF13oZD
+id pixel: 1492261177969460
+v14.0
+Kevin Ramirez12:17
+https://developers.facebook.com/docs/marketing-api/conversions-api/using-the-api#send
+Kevin Ramirez12:37
+TEST87042
+Kevin Ramirez12:59
+https://developers.facebook.com/docs/marketing-api/conversions-api/payload-helper
+Tú13:19
+"(#100) The parameter data i

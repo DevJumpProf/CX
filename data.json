@@ -1,0 +1,21 @@
+{
+   "data": [
+       {
+           "event_name": "Purchase",
+           "event_time": 1663344132,
+           "action_source": "email",
+           "user_data": {
+               "em": [
+                   "7b17fb0bd173f625b58636fb796407c22b3d16fc78302d79f0fd30c2fc2fc068"
+               ],
+               "ph": [
+                   null
+               ]
+           },
+           "custom_data": {
+               "currency": "USD",
+               "value": "142.52"
+           }
+       }
+   ],"test_event_code":"TEST87042"
+}
